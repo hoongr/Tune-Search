@@ -20,7 +20,7 @@ The files that I were responsible for were the following:
 * index.html
 * results.html
 
-## My tasks
+## My Tasks
 1. Database Setup
 	- Wrote queries to create database tables with the correct data types, keys, and constraints
 	- Loaded the data (60K+ songs and their information) into these tables
