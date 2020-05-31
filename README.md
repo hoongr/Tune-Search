@@ -1,4 +1,4 @@
-# Lyrics-Search-Engine
+# TuneSearch
 
 This was a project submitted for a class assignment for my Database Systems course.
 
